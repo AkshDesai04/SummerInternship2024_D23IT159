@@ -64,6 +64,10 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project sho
 - Day 3: Open-ATS API Integration
   - Developed APIs for user management.
   - Tested the APIs using Postman.
-
+ 
+  - ### 13th June 2024
+- Day 4: Open-ATS Frontend Development
+  - Started building the frontend using React.
+  - Created basic components and integrated them with the backend.
 
 
