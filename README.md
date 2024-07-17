@@ -26,3 +26,9 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project sho
   - Learned basic git commands and set up the development environment.
   - Practiced basic HTML and CSS.
 
+
+### 4th June 2024
+- Day 2: Git Basics
+  - Learned how to clone repositories, create branches, and commit changes.
+  - Worked on small HTML projects to get comfortable with version control.
+
