@@ -69,5 +69,9 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project sho
 - Day 4: Open-ATS Frontend Development
   - Started building the frontend using React.
   - Created basic components and integrated them with the backend.
-
+ 
+  - ### 14th June 2024
+- Day 5: Finalizing Open-ATS Features
+  - Completed the main features of the Open-ATS project.
+  - Conducted code reviews and prepared for deployment.
 
