@@ -36,5 +36,11 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project sho
 - Day 3: Introduction to JavaScript
   - Started with basic JavaScript concepts and syntax.
   - Implemented simple JavaScript functions and event handlers.
+ 
+  - ### 6th June 2024
+- Day 4: Advanced Git Commands
+  - Learned advanced git commands like rebasing, merging, and resolving conflicts.
+  - Practiced by collaborating on a small team project.
+
 
 
