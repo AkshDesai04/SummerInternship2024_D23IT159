@@ -102,6 +102,13 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project sho
 - Day 5: Finalizing Meeting Mins Features
   - Completed the main features of the Meeting Mins project.
   - Conducted code reviews and prepared for deployment.
+ 
+  - ## ⿤ Week 4
+### 24th June 2024
+- Final Week Overview
+  - Reviewed the progress of the Open-ATS and Meeting Mins projects.
+  - Fixed any remaining bugs and issues.
+
 
 
 
