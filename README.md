@@ -108,6 +108,13 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project sho
 - Final Week Overview
   - Reviewed the progress of the Open-ATS and Meeting Mins projects.
   - Fixed any remaining bugs and issues.
+ 
+  - 
+### 25th June 2024
+- Documentation and Final Touches
+  - Created documentation for both projects.
+  - Finalized the deployment process and prepared for the final presentation.
+
 
 
 
