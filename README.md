@@ -114,6 +114,29 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project sho
 - Documentation and Final Touches
   - Created documentation for both projects.
   - Finalized the deployment process and prepared for the final presentation.
+ 
+  - ## Projects Summary
+### Open-ATS
+- User authentication and management system.
+- API development for user operations.
+- Frontend built with React.
+
+### Meeting Mins
+- Meeting scheduling and management tool.
+- Integrated calendar and notification system.
+- API development and frontend integration.
+
+## Notes:
+➠ We were given this repository which contains basic documentation of services which can be helpful to everybody --
+[https://github.com/example/documentation-repo](https://github.com/example/documentation-repo)
+
+## 🤝 Connect with Me
+- LinkedIn: [https://www.linkedin.com](https://www.linkedin.com/in/example)
+- Email: [example@gmail.com](mailto:example@gmail.com)
+
+Thank you for visiting my project! Feel free to reach out if you have any questions or feedback. ✨
+
+
 
 
 
