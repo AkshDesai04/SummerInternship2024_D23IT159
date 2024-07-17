@@ -74,4 +74,12 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project sho
 - Day 5: Finalizing Open-ATS Features
   - Completed the main features of the Open-ATS project.
   - Conducted code reviews and prepared for deployment.
+ 
+  - 
+## ⿣ Week 3
+### 17th June 2024
+- Meeting Mins Project Kickoff
+  - Discussed the project requirements and initial setup for Meeting Mins.
+  - Started working on the meeting scheduling feature.
+
 
