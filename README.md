@@ -59,6 +59,11 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project sho
 - Day 2: Open-ATS Development
   - Implemented the login and registration features.
   - Integrated basic form validation.
+ 
+  - ### 12th June 2024
+- Day 3: Open-ATS API Integration
+  - Developed APIs for user management.
+  - Tested the APIs using Postman.
 
 
 
