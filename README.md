@@ -47,6 +47,13 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project sho
 - Day 5: Finalizing Basic Projects
   - Reviewed and finalized the basic HTML, CSS, and JavaScript projects.
   - Prepared for the next week's major projects.
+ 
+  - ## ⿢ Week 2
+### 10th June 2024
+- Open-ATS Project Kickoff
+  - Discussed the project requirements and initial setup for Open-ATS.
+  - Started working on the user authentication module.
+
 
 
 
