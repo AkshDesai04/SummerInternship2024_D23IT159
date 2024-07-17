@@ -53,8 +53,12 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project sho
 - Open-ATS Project Kickoff
   - Discussed the project requirements and initial setup for Open-ATS.
   - Started working on the user authentication module.
-
-
+ 
+  - 
+### 11th June 2024
+- Day 2: Open-ATS Development
+  - Implemented the login and registration features.
+  - Integrated basic form validation.
 
 
 
