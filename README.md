@@ -18,3 +18,11 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project sho
 ### 1st June 2024
 - Orientation Meeting: Introduction to the projects and overview of the internship tasks
 - The internship period is 4 weeks, focusing on practical insights and hands-on experience.
+
+- 
+## ⿡ Week 1
+### 3rd June 2024
+- Day 1: Initial Setup and Learning Basics
+  - Learned basic git commands and set up the development environment.
+  - Practiced basic HTML and CSS.
+
