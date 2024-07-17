@@ -92,6 +92,12 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project sho
 - Day 3: Meeting Mins API Integration
   - Created APIs for meeting management.
   - Tested the APIs and ensured proper integration with the frontend.
+ 
+  - ### 20th June 2024
+- Day 4: Meeting Mins Frontend Development
+  - Built the frontend interface using React.
+  - Integrated the calendar and notification features.
+
 
 
 
