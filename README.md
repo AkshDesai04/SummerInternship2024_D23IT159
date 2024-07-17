@@ -87,6 +87,12 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project sho
 - Day 2: Meeting Mins Development
   - Implemented the scheduling and calendar integration.
   - Developed the notification system for meeting reminders.
+ 
+  - ### 19th June 2024
+- Day 3: Meeting Mins API Integration
+  - Created APIs for meeting management.
+  - Tested the APIs and ensured proper integration with the frontend.
+
 
 
 
