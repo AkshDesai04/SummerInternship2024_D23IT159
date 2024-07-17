@@ -81,5 +81,12 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project sho
 - Meeting Mins Project Kickoff
   - Discussed the project requirements and initial setup for Meeting Mins.
   - Started working on the meeting scheduling feature.
+ 
+  - 
+### 18th June 2024
+- Day 2: Meeting Mins Development
+  - Implemented the scheduling and calendar integration.
+  - Developed the notification system for meeting reminders.
+
 
 
